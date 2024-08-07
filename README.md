@@ -16,6 +16,20 @@ The Library Management System is a web application designed to manage books and 
 - **Backend**: Java Servlets, Hibernate
 - **Database**: MySQL
 
+## Screenshots
+
+### Update Page
+
+![Home Page](update_book.jpeg)
+
+### Add Book Page
+
+![Add Book Page](add_book.jpeg)
+
+### Book List Page
+
+![Book List Page](book_list.jpeg)
+
 ## Project Structure
 
 ```plaintext
